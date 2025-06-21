@@ -32,10 +32,10 @@ Each record in the JSON files follows this schema:
   "surah_number": 1,
   "ayah_number": 2,
   "position": 1,
-  "min_x": 150.5,
-  "max_x": 412.75,
-  "min_y": 320.0,
-  "max_y": 378.25
+  "min_x": 150,
+  "max_x": 412,
+  "min_y": 320,
+  "max_y": 378
 }
 ```
 
