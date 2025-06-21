@@ -68,7 +68,8 @@ If you use this dataset in your project, please include link of this repository
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute.
+This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).  
+You are free to use, modify, and distribute this work.
 
 
 
